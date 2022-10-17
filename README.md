@@ -1,8 +1,8 @@
-### Hi 👋
+### Hi, there! 👋
 
-[![stjuliet's GitHub stats](https://github-readme-stats.vercel.app/api?username=stjuliet)](https://github.com/anuraghazra/github-readme-stats)
+- 😄 My CSDN Blog: [https://blog.csdn.net/stjuliet](https://blog.csdn.net/stjuliet)
 
-- 😄 CSDN Blog: [https://blog.csdn.net/stjuliet](https://blog.csdn.net/stjuliet)
+![stjuliet's GitHub stats](https://github-readme-stats.vercel.app/api?username=stjuliet&count_private=true)
 
 <!--
 **stjuliet/stjuliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
